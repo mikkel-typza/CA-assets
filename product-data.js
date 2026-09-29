@@ -302,7 +302,7 @@ window.manuals = {
   "CA-2890GX": "https://downloads.cyberacoustics.com/assets/manuals/CA-2890GX/CA-2890GX_manual.pdf",
   "CA-2890PRO": "https://downloads.cyberacoustics.com/assets/manuals/CA-2890PRO/CA-2890PRO_manual.pdf",
   "CA-3090": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/6aa2b8126e61957bba57b64e/1789048850587/CA-3090_Manual_User_Guide_20260907.pdf",
-  "CA-3610": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/5fd2748c03bc3e58c4ad32cf/1607627924281/CA-3610+manu.pdf",
+  "CA-3610": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/6abbca2a2e4d2567d1bb95d3/1790691882082/CA-3610_Manual.pdf",
   "CA-3810": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/5fd2753fc8242e4a432bddaf/1607628105307/CA-3810_manu+N.pdf",
   "CA-3908": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/5fd2767f7003f84709828444/1607628430633/CA-3908_manu.pdf",
   "SP-2000": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/607f314101ad5b41322640b4/1618948430480/SP-2000+Manual.pdf",
