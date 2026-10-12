@@ -369,7 +369,7 @@ window.datasheets = {
   "WC-FLEX": "https://www.cyberacoustics.com/s/WCFLEXDatasheet.pdf",
   "WC-3000": "https://www.cyberacoustics.com/s/WC-3000_2_25_22.pdf",
   "WC-2000": "https://www.cyberacoustics.com/s/WC-2000Datasheet342025.pdf",
-  "WC-1000": "https://www.cyberacoustics.com/s/WC-1000-Datasheet-1.pdf",
+  "WC-1000": "https://www.cyberacoustics.com/s/WC-1000_Datasheet.pdf",
 
   // Speakers
   "CA-3908": "https://static1.squarespace.com/static/5fb450fd856f502357b16c1a/t/5fd276b0618580786d74ce0a/1607628466462/CA-3908.pdf",
